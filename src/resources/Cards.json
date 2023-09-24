@@ -1,0 +1,17 @@
+[
+    {
+        "cardHolderName": "Mark Henry",
+        "cardColor": "#01D167",
+        "isFrozen": true
+    },
+    {
+        "cardHolderName": "David Patinson",
+        "cardColor": "#536DFF",
+        "isFrozen": false
+    },
+    {
+        "cardHolderName": "Scott Peters",
+        "cardColor": "#FF9999",
+        "isFrozen": false
+    }
+]
