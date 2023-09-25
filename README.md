@@ -6,12 +6,6 @@ Aspire mobile application. The desktop version is not built and the mobile width
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Type Support for `.vue` Imports in TS
-
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
@@ -30,4 +24,3 @@ npm run dev
 1. The application uses localStorage for state management
 2. There is no toast or notification on the New Card, Cancel Card or Freeze Card functionalities
 3. On click of New Card, a card gets added to the list with hardcoded values for now.
-4. 
